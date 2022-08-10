@@ -1,4 +1,3 @@
 # Hi my name is **HariPrasad** 🙎‍♂️
-# I'm currently learning **Flutter** for my project 📱
-# I'm Intrested in **Data Science and mobile app developement** 📱📈
+# I'm a Data Science Enthusiast 
 # You can reach me **@hariprasad2k06@gmail.com** ✉️ 
